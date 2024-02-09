@@ -1,6 +1,5 @@
 from __future__ import print_function
-# author - Richard Liao
-# Dec 26 2016
+
 import numpy as np
 import pandas as pd
 import cPickle
